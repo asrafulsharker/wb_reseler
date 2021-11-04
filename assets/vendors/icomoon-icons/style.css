@@ -1,0 +1,196 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?orkqwr');
+  src:  url('fonts/icomoon.eot?orkqwr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?orkqwr') format('truetype'),
+    url('fonts/icomoon.woff?orkqwr') format('woff'),
+    url('fonts/icomoon.svg?orkqwr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.icon-right-quotation-mark:before {
+  content: "\e900";
+}
+.icon-down-arrow:before {
+  content: "\e901";
+}
+.icon-checked:before {
+  content: "\e902";
+}
+.icon-pin:before {
+  content: "\e903";
+}
+.icon-letter:before {
+  content: "\e904";
+}
+.icon-plus:before {
+  content: "\e905";
+}
+.icon-phone-call:before {
+  content: "\e906";
+}
+.icon-envelope:before {
+  content: "\e907";
+}
+.icon-clock:before {
+  content: "\e908";
+}
+.icon-right-arrow .path1:before {
+  content: "\e909";
+  color: rgb(0, 150, 136);
+}
+.icon-right-arrow .path2:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(0, 150, 136);
+}
+.icon-right-arrow .path3:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-right-arrow .path4:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-left:before {
+  content: "\e90d";
+}
+.icon-right-arrow-angle:before {
+  content: "\e90e";
+}
+.icon-user:before {
+  content: "\e90f";
+}
+.icon-right:before {
+  content: "\e910";
+}
+.icon-left-arrow:before {
+  content: "\e911";
+}
+.icon-left-arrow-1 .path1:before {
+  content: "\e912";
+  color: rgb(0, 150, 136);
+}
+.icon-left-arrow-1 .path2:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(0, 150, 136);
+}
+.icon-left-arrow-1 .path3:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-left-arrow-1 .path4:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-phone-call-1:before {
+  content: "\e916";
+}
+.icon-message:before {
+  content: "\e917";
+}
+.icon-shopping-cart:before {
+  content: "\e918";
+}
+.icon-lamp:before {
+  content: "\e919";
+}
+.icon-human-resources:before {
+  content: "\e91a";
+}
+.icon-empowerment:before {
+  content: "\e91b";
+}
+.icon-human-resources-1:before {
+  content: "\e91c";
+}
+.icon-recruitment:before {
+  content: "\e91d";
+}
+.icon-relationship:before {
+  content: "\e91e";
+}
+.icon-confirmation:before {
+  content: "\e91f";
+}
+.icon-online-course:before {
+  content: "\e920";
+}
+.icon-paper-plane:before {
+  content: "\e921";
+}
+.icon-chat:before {
+  content: "\e922";
+}
+.icon-message-1:before {
+  content: "\e923";
+}
+.icon-creativity:before {
+  content: "\e924";
+}
+.icon-needs:before {
+  content: "\e925";
+}
+.icon-photo-camera:before {
+  content: "\e926";
+}
+.icon-target:before {
+  content: "\e927";
+}
+.icon-desk:before {
+  content: "\e928";
+}
+.icon-professor:before {
+  content: "\e929";
+}
+.icon-knowledge:before {
+  content: "\e92a";
+}
+.icon-teacher:before {
+  content: "\e92b";
+}
+.icon-student:before {
+  content: "\e92c";
+}
+.icon-address:before {
+  content: "\e92d";
+}
+.icon-play:before {
+  content: "\e92e";
+}
